@@ -28,13 +28,6 @@ O objetivo é demonstrar de forma prática conceitos de **manipulação de sess�
 - **Sessions do PHP**  
 
 ---
-
-## ⚙️ Como Executar
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/carrinho-compras-php.git
-
----
    
 ## Para acessar 
-- http://localhost/carrinho-compras-php/index.php
+- http://localhost/Carrinho-de-compras-main/carrinho%20valdir/index.php
